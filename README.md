@@ -17,7 +17,6 @@ Demographic Value: Analysis of age-wise trends revealed that Young Adults genera
 Geographic & Seasonal Trends: Mapped sales density across regions to identify top-performing states for logistics and supply chain optimization.
 
 🛠️ Data Pipeline & Workflow
-
 1. Data Cleaning & Transformation (Python)
 Used Pandas and NumPy to handle the initial data prep:
 
