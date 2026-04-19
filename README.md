@@ -3,6 +3,7 @@
 Tech Stack: Python | SQL | Power BI
 
 📋 Project Overview
+
 This project provides a comprehensive end-to-end analysis of customer shopping behavior. By integrating data engineering and business intelligence techniques, I transformed raw transactional data into actionable insights. The goal was to identify growth opportunities, optimize marketing focus, and understand the drivers behind customer retention and revenue.
 
 🚀 Key Insights & Business Impact
@@ -49,6 +50,7 @@ Category Analysis: Comparative view of sales across different product lines.
 Interactive Slicers: Allowed for real-time filtering by State, Gender, and Value Deals.
 
 📂 Repository Structure
+
 ├── Data/               # Raw and Cleaned datasets
 ├── Python/             # Jupyter Notebooks for data cleaning
 ├── SQL/                # Scripts for data exploration and view creation
@@ -56,4 +58,5 @@ Interactive Slicers: Allowed for real-time filtering by State, Gender, and Value
 └── README.md           # Project documentation
 
 💡 Conclusion
+
 The analysis highlights that business growth should focus on converting the 73% non-subscriber base and doubling down on the Young Adult demographic within the Clothing category. Implementing loyalty programs and targeted discounts for these segments could significantly increase Customer Lifetime Value (CLV).
