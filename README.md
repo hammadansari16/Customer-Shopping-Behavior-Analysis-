@@ -1,6 +1,7 @@
 # Customer-Shopping-Behavior-Analysis-
 
 Tech Stack: Python | SQL | Power BI
+
 📋 Project Overview
 This project provides a comprehensive end-to-end analysis of customer shopping behavior. By integrating data engineering and business intelligence techniques, I transformed raw transactional data into actionable insights. The goal was to identify growth opportunities, optimize marketing focus, and understand the drivers behind customer retention and revenue.
 
@@ -15,6 +16,7 @@ Demographic Value: Analysis of age-wise trends revealed that Young Adults genera
 Geographic & Seasonal Trends: Mapped sales density across regions to identify top-performing states for logistics and supply chain optimization.
 
 🛠️ Data Pipeline & Workflow
+
 1. Data Cleaning & Transformation (Python)
 Used Pandas and NumPy to handle the initial data prep:
 
@@ -25,6 +27,7 @@ Segmented ages into groups (Teenager, Young Adult, Adult, Senior) for deeper dem
 Calculated key metrics such as Average Order Value (AOV) and Churn Risk.
 
 2. Business Logic & Exploration (SQL)
+
 Performed complex queries to extract specific business metrics:
 
 Segmentation: Grouped revenue by subscription status and product category.
@@ -34,6 +37,7 @@ Trend Analysis: Aggregated monthly sales to identify seasonal peaks.
 SQL Operations: Utilized Joins, CTEs, and Window Functions to prepare clean datasets for visualization.
 
 3. Data Visualization (Power BI)
+
 Developed an interactive dashboard focusing on:
 
 Executive Summary: High-level KPIs (Total Revenue, Total Orders, Average Rating).
