@@ -48,12 +48,6 @@ Category Analysis: Comparative view of sales across different product lines.
 
 Interactive Slicers: Allowed for real-time filtering by State, Gender, and Value Deals.
 
-📂 Repository Structure
-├── Data/               # Raw and Cleaned datasets
-├── Python/             # Jupyter Notebooks for data cleaning
-├── SQL/                # Scripts for data exploration and view creation
-├── PowerBI/            # .pbix file and dashboard screenshots
-└── README.md           # Project documentation
 
 💡 Conclusion
 
