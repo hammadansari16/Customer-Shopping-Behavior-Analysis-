@@ -5,6 +5,7 @@ Tech Stack: Python | SQL | Power BI
 This project provides a comprehensive end-to-end analysis of customer shopping behavior. By integrating data engineering and business intelligence techniques, I transformed raw transactional data into actionable insights. The goal was to identify growth opportunities, optimize marketing focus, and understand the drivers behind customer retention and revenue.
 
 🚀 Key Insights & Business Impact
+
 Subscription Opportunity: Identified that 73% of customers are non-subscribers, revealing a massive untapped opportunity for retention programs and subscription-based conversion strategies.
 
 Product Performance: Discovered that Clothing is the dominant category in both volume and revenue, whereas Outerwear is the lowest performer, suggesting a pivot in inventory and marketing focus.
